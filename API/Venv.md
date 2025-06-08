@@ -14,7 +14,13 @@ Navegue até a pasta onde esta a pasta do **ambiente virtual** (**venv**)
 
 Utilize o comando **`source venv/bin/activate`**
 
+### Ativar o Ambiente Virtual
+```
+source .venv/bin/activate
+```
+
 ### Desativar o Ambiente Virtual
 ```
 deactivate
 ```
+
