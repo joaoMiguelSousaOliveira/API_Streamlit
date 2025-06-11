@@ -13,17 +13,17 @@ python3 -m venv venv
 Navegue até a pasta onde esta a pasta do **ambiente virtual** (**venv**)
 
 Utilize o comando **`source venv/bin/activate`**
-
+```
+source venv/bin/activate
+```
 
 ### Ativar o ambiente virtual (Windowns)
 Navegue até a pasta onde esta a pasta do **ambiente virtual** (**venv**)
 
 Utilize o comando **`venv\Scripts\activate.bat`**
 
-
-### Ativar o Ambiente Virtual
 ```
-source .venv/bin/activate
+venv\Scripts\activate.bat
 ```
 
 ### Desativar o Ambiente Virtual
