@@ -9,10 +9,17 @@ Use o comando **`python3 -m venv`** seguido do nome que deseja dar ao ambiente v
 python3 -m venv venv
 ```
 
-### Ativar o ambiente virtual
+### Ativar o ambiente virtual (Unbuntu)
 Navegue até a pasta onde esta a pasta do **ambiente virtual** (**venv**)
 
 Utilize o comando **`source venv/bin/activate`**
+
+
+### Ativar o ambiente virtual (Windowns)
+Navegue até a pasta onde esta a pasta do **ambiente virtual** (**venv**)
+
+Utilize o comando **`venv\Scripts\activate.bat`**
+
 
 ### Ativar o Ambiente Virtual
 ```
